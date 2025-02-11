@@ -115,7 +115,7 @@
   .header h4 {
     font-size: 1.2em;
     margin: 0 0 30px;
-    color: #666;
+    color: #000;
   }
 
   .spacer {
@@ -138,6 +138,6 @@
   h5 {
     font-size: 1.1em;
     margin-bottom: 8px;
-    color: #444;
+    color: #000;
   }
 </style>
